@@ -1,0 +1,6 @@
+[2019-04-14 12:00:02,042] INFO Got user-level KeeperException when processing sessionid:0x100038df29d0000 type:setData cxid:0x3b zxid:0x4c txntype:-1 reqpath:n/a Error Path:/config/topics/test0414-1000 Error:KeeperErrorCode = NoNode for /config/topics/test0414-1000 (org.apache.zookeeper.server.PrepRequestProcessor)
+[2019-04-14 12:00:10,973] INFO Accepted socket connection from /127.0.0.1:50780 (org.apache.zookeeper.server.NIOServerCnxnFactory)
+[2019-04-14 12:00:10,989] INFO Client attempting to establish new session at /127.0.0.1:50780 (org.apache.zookeeper.server.ZooKeeperServer)
+[2019-04-14 12:00:10,993] INFO Established session 0x100038df29d0002 with negotiated timeout 30000 for client /127.0.0.1:50780 (org.apache.zookeeper.server.ZooKeeperServer)
+[2019-04-14 12:00:11,127] INFO Processed session termination for sessionid: 0x100038df29d0002 (org.apache.zookeeper.server.PrepRequestProcessor)
+[2019-04-14 12:00:11,131] INFO Closed socket connection for client /127.0.0.1:50780 which had sessionid 0x100038df29d0002 (org.apache.zookeeper.server.NIOServerCnxn)
